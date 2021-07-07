@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hotstar Tokenizer
+// @name         HotstarTokenLogin
 // @namespace    https://github.com/PreciousWarrior
 // @version      0.1
 // @description  Login to Hotstar without having to use your mobile phone OTP every time 
